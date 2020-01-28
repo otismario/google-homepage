@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links {
+    display: inline;  
+    list-style-type: none;
+    margin: 0;
+    padding: 14px 16px;
+    cursor: pointer;
+  }
+  
+  .navbar-links:hover{
+    text-decoration: underline;
+  }
+  
+  .left-links{
+    float: left;
+  }
+  
+  .right-links{
+    float: right;
+    padding-right: 16px;
+  }
+  
+  .signin-div{
+    margin-right: 25px;
+    background-color: blue;
+  }
+  
+  .signin-div .sign-in{
+    background-color: #3870ff;
+    border-radius: 3px;
+    padding:10px 10px;
+    font-weight: bold;
+    color: #fff;
+    cursor: default;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
